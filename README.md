@@ -1,8 +1,10 @@
-Приветствую. меня Зовут Антон 
+Приветствую. Меня Зовут Антон 
 
 ---
 
 ### 👨‍💻 Обо мне:
+
+Как связаться со мной [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](Allphaweltall@gmail.com)
 
 
 ### 🤝 Социальные сети:
@@ -18,6 +20,7 @@
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
+
 
 ---
 
