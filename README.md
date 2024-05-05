@@ -8,6 +8,9 @@
 
 
 ### 🤝 Социальные сети:
+<div id="badges">
+    <a href="www.linkedin.com/in/антон-иванов-b2358a307" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 
 
 ### 📁 Тестовая документация:
