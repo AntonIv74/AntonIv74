@@ -9,7 +9,7 @@
 
 ### 🤝 Социальные сети:
 <div id="badges">
-    <a href="www.linkedin.com/in/антон-иванов-b2358a307/" target="_blank">
+    <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-b2358a307/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 
 
